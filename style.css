@@ -185,6 +185,7 @@
     }
     .luxury{
         margin-top: 10px;
+        margin-bottom: 50px;
     }
 }
 @media screen and (max-width: 450px) {
@@ -228,6 +229,7 @@
     }
     .luxury{
         margin-top: 10px;
+        margin-bottom: 50px;
     }
 }
 
@@ -272,5 +274,6 @@
     }
     .luxury{
         margin-top: 5px;
+        margin-bottom: 50px;
     }
 }
