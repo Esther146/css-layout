@@ -91,13 +91,13 @@
     
     }
     li{
-        margin-top: 20px;
+        margin-top: 15px;
         font-size: 15px;
     }
     a {
         padding: 5px;
         text-decoration: none;
-        font-size: 20px;
+        font-size: 15px;
         color: bisque;
     }
 }
