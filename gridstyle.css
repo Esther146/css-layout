@@ -20,6 +20,10 @@
         font-size: x-large;
         color: bisque;
     }
+    a:hover{
+        color: rgb(250, 165, 53);
+        font-size: x-large;
+    }
     .home{
         width: 60%;
     }
